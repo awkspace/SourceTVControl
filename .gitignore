@@ -1,0 +1,14 @@
+/*
+!.gitignore
+!README.md
+!LICENSE.txt
+!/addons
+/addons/*
+!/addons/sourcemod
+/addons/sourcemod/*
+!/addons/sourcemod/plugins
+/addons/sourcemod/plugins/*
+!/addons/sourcemod/plugins/sourcetv_control.smx
+!/addons/sourcemod/scripting
+/addons/sourcemod/scripting/*
+!/addons/sourcemod/scripting/sourcetv_control.sp
